@@ -1,0 +1,22 @@
+.card{
+  
+   max-width: 886px;
+   padding: 40px;
+   color: #000;
+   background: rgba(229, 245, 225, 1);
+   border-radius: 20px;
+   .titleCL{
+    
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 24.38px;
+   }
+   .textCL{
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 22.4px;
+   }
+}
+.card__error{
+   background: rgba(255, 224, 224, 1);
+}

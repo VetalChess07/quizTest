@@ -1,0 +1,22 @@
+.card {
+  width: 100%;
+  max-width: 886px;
+  padding: 40px;
+  color: #000;
+  background: rgb(229, 245, 225);
+  border-radius: 20px;
+}
+.card .titleCL {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24.38px;
+}
+.card .textCL {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22.4px;
+}
+
+.card__error {
+  background: rgb(255, 224, 224);
+}/*# sourceMappingURL=style.module.css.map */

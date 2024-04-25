@@ -1,0 +1,31 @@
+
+ .ant-radio:hover .ant-radio-inner {
+   background-color: rgba(51, 0, 255, 1);
+   border-color:   rgba(51, 0, 255, 1);
+  
+ }
+
+ .ant-radio:hover  {
+   background-color: rgba(51, 0, 255, 1);
+   border-color:   rgba(51, 0, 255, 1);
+  
+ }
+
+ .ant-radio-checked .ant-radio-inner:focus{
+   
+   background-color: rgb(51, 4, 158);
+ }
+
+
+
+
+ .radioInner{
+  display: flex;
+  flex-direction: column;
+ justify-content: end;
+  gap: 20px;
+ }
+
+ .ant-radio-wrapper .ant-radio-inner{
+   border-color: #000;
+ }

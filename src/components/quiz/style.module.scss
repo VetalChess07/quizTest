@@ -1,0 +1,23 @@
+.quizInner{
+   width: 100%;
+}
+.quiz{
+  
+   padding: 40px;
+   background: rgba(247, 247, 247, 1);
+
+   border-radius: 20px;
+   min-height: 50dvh;
+   display: flex;
+   flex-direction: column;
+   align-items: start;
+  
+   
+}
+
+.title{
+   font-size: 24px;
+   line-height: 29.26px;
+   font-weight: 700;
+   margin-bottom: 20px;
+}
